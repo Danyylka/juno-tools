@@ -30,7 +30,7 @@ cd juno-tools
 # install dependencies
 yarn install
 
-# copy env file and fill in values
+# copy env file and fill in the values
 cp .env.example .env
 
 # run development server
